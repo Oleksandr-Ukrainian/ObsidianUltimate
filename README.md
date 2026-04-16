@@ -33,8 +33,11 @@ For changing UI scaling, open Settings -> Appearance -> Scroll and find Zoom Lev
 
 # LONG TERM OBSIDIAN TROUBLESHOOTING / elements become buggy and glitchy:
 1)Just use ctrl+c and ctrl+v - dublicate project when it begins to lag, and open it to reinit, reindex all files and configs.
+
 2)Also plugins may make your project sluggins
+
 3)if you disable plugins, but they enable after app restart:
+
  • Delete troublesome plugin and reinstall
 
 ~ I will fix project / add more tips as users meet any problems during usage
