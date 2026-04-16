@@ -23,3 +23,19 @@ Important: Trust author or enable plugins, or you may do it later. Plugins are u
 For changing UI scaling, open Settings -> Appearance -> Scroll and find Zoom Level
 
 <img width="2202" height="1363" alt="image" src="https://github.com/user-attachments/assets/6e9200cc-ad6f-4d98-a089-8a5617cec812" />
+
+
+
+
+
+LONG RUN OBSIDIAN DEBUGGING:
+1)Just use ctrl+c and ctrl+v - dublicate project when it begins to lag, and it will reinit, reindex.
+2)Also plugins may make your project sluggins
+# I will fix project / add more tips as users meet any problems during usage
+
+Backups:
+1)please do notes backups of project once a month(use win rar and the best compression)
+2)Have at least 3 digital copies of notes in different places
+3)if you want to bundle your project in separate folder and then archive without images, gifs and only package MD, Canvas and other text files to save space, use my bundler tool https://github.com/Oleksandr-Ukrainian/LexiCodeBundler
+
+you may also exclude big folders like "plugins" and "themes" there if you bundle whole project with configs and settings but want to save space
