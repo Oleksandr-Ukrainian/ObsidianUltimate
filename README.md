@@ -5,7 +5,7 @@ Installation:
 
 1)Install Obsidian: https://obsidian.md/download
 2)Install my template. Place my template somewhere in a productive folder, for Example E:\Productivity\ObsidianVault  - it can store multiple Profiles there. Put my project there.
-3)Open Obsidian or manage Vaults
+3)Open Obsidian and you'll see this window
 
 <img width="2054" height="1368" alt="image" src="https://github.com/user-attachments/assets/9c983fa1-3e9a-461b-912b-681eeab8faec" />
 
