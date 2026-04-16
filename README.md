@@ -6,7 +6,7 @@ My Obsidian Vault Repository For Productivity
 
 1)Install Obsidian: https://obsidian.md/download
 
-2)Install my template. Place my template somewhere in a productive folder, for Example E:\Productivity\ObsidianVault  - it can store multiple Profiles there. Put my project there.
+2)Install my template. Place my template somewhere in a *~productive* folder, for Example E:\Productivity\ObsidianVault  - it can store multiple Profiles there. Put my project there.
 
 3)Open Obsidian and you'll see this window
 
