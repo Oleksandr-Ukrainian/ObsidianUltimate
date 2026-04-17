@@ -57,3 +57,7 @@ you may also exclude big folders like "plugins" and "themes" there if you bundle
 1)Feel free to rename the main project name ObsidianUltimate to your name.
 2)Don't rename Diary folder, breaks some paths
 3)Don't rename Utilities folder, breaks some paths
+
+
+# Themes:
+Removed Kakano as deemed a bad one, Replaced with Origami(downsides are Canvas paper animations may be annoying), also enjoy Royal Valvet(downsides are that emojis become yellow at Tasks Panel)
