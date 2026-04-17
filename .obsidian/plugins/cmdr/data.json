@@ -30,6 +30,12 @@
       "name": "Daily notes: Open today's daily note",
       "mode": "any",
       "color": "#000000"
+    },
+    {
+      "id": "obsidian-dictionary-plugin:dictionary-open-view",
+      "icon": "lucide-languages",
+      "name": "Dictionary: Open Dictionary View",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

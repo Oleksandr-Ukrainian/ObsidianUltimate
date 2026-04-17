@@ -140,6 +140,22 @@
         "charCountStart": 77,
         "changes": [],
         "id": 9
+      },
+      {
+        "date": "2026-04-17",
+        "filePath": "How to Use Obsidian.md",
+        "wordCountStart": 143,
+        "charCountStart": 918,
+        "changes": [],
+        "id": 10
+      },
+      {
+        "date": "2026-04-17",
+        "filePath": "Welcome.md",
+        "wordCountStart": 36,
+        "charCountStart": 203,
+        "changes": [],
+        "id": 11
       }
     ]
   }
