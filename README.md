@@ -1,5 +1,5 @@
 # ObsidianUltimate
-My Obsidian Vault Repository For Productivity
+My Obsidian Vault Repository For Productivity (Currently working on implementing Zettelkasten and comfortable notes taking)
 
 
 # Installation:
