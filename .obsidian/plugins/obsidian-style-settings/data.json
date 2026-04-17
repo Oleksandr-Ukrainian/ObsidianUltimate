@@ -1,0 +1,23 @@
+{
+  "kakano-style@@theme-setting-predefinedBaseColor": "theme-setting-baseColorPreset-accent",
+  "royal-velvet@@inline-document-title-color": "doc-title-h6",
+  "o-theme-settings@@o-theme-dark": "o-red-d",
+  "o-theme-settings@@o-header-line-h6": false,
+  "o-theme-settings@@o-header-size": "o-headings-flat",
+  "o-theme-settings@@o-justify": false,
+  "o-theme-settings@@o-bold-italic": false,
+  "o-theme-settings@@o-font-general": "DobbinTextSF-Roman",
+  "o-theme-settings@@o-list-distinct": false,
+  "o-theme-settings@@o-border": "none",
+  "o-theme-settings@@o-colorful-headings": false,
+  "o-theme-settings@@o-header-line-accent": "o-mono-headers-body",
+  "o-theme-settings@@o-frontmatter": true,
+  "o-theme-settings@@o-header-lapel": true,
+  "o-theme-settings@@o-hover-status-bar": false,
+  "o-theme-settings@@o-kanban-wrap": false,
+  "o-theme-settings@@o-header-line-h5": false,
+  "o-theme-settings@@o-header-line-h1": false,
+  "o-theme-settings@@o-kanban-style": "o-kanban-notion",
+  "o-theme-settings@@o-theme-light": "o-red-l",
+  "o-theme-settings@@o-color-accent": "o-custom"
+}

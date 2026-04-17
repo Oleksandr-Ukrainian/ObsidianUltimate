@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "298bfc3e983b7343",
+    "type": "split",
+    "children": [
+      {
+        "id": "48f5f2fde2b963f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a975825dea3d24a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Diary/Statistics/Achievements Over the Last 30 Days.canvas",
+                "viewState": {
+                  "x": -489.3294495833452,
+                  "y": 890.1814252081332,
+                  "zoom": -1.4895089793557696
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Achievements Over the Last 30 Days"
+            }
+          },
+          {
+            "id": "c82a2d611b0ea2c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Statistics/Statistics and Information (quick access).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Statistics and Information (quick access)"
+            }
+          },
+          {
+            "id": "86dfe1364e9a7407",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Diary/Tasks/Kanban Boards/KanbanUltimate.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "KanbanUltimate"
+            }
+          },
+          {
+            "id": "80ce3e6cd3b0ae41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Daily Notes/17.04.2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "17.04.2026"
+            }
+          },
+          {
+            "id": "74d1572bc4b2a5cc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95f4f7cb80259858",
+    "type": "split",
+    "children": [
+      {
+        "id": "9348bdd180151724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24001ef4ed6bf1cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86574084c0e14cd8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Calendar and Task Panel/Current Tasks PanelCurrent Tasks Panel.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Current Tasks PanelCurrent Tasks Panel"
+            }
+          },
+          {
+            "id": "1cb44fcf1247f3c8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Statistics/Statistics and Information (quick access).md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Statistics and Information (quick access)"
+            }
+          },
+          {
+            "id": "b0bf55a35084c00a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Calendar and Task Panel/Calendar/Calendar.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4d841ca989c46baf",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "be8345c7a5851aa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.49999618530273
+  },
+  "right": {
+    "id": "2688d8286bb824d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dddfb10599ba13ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f537afcff5011c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diary/Calendar and Task Panel/Current Tasks PanelCurrent Tasks Panel.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Current Tasks PanelCurrent Tasks Panel"
+            }
+          },
+          {
+            "id": "fb067ae2f24aedfe",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "443596bc13fc0382",
+            "type": "leaf",
+            "state": {
+              "type": "keep-the-rhythm",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Keep the Rhythm"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 366,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "cmdr:Show File In Folder": false,
+      "cmdr:Daily notes: Open today's daily note": false,
+      "cmdr:Calendar": false,
+      "cmdr:Pomodoro Widget: Toggle timer / stopwatch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "vscode-editor:Create Code File": false,
+      "command-palette:Open command palette": false,
+      "tinypng-image:Compress images": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "pomodoro-widget:Toggle pomodoro widget.": false,
+      "keep-the-rhythm:Word Count Stats": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "banyan:Open dashboard": false,
+      "banyan:Add card note": false,
+      "banyan:Random open a note - Random review": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "ObsidianAnkiSync:Start Obsidian Anki Sync": false
+    }
+  },
+  "active": "9a975825dea3d24a",
+  "lastOpenFiles": [
+    "Diary/Daily Notes/17.04.2026.md",
+    "Diary/Calendar and Task Panel/Current Tasks PanelCurrent Tasks Panel.md",
+    "Diary/Calendar and Task Panel/Calendar/Calendar.md",
+    "Diary/Statistics/Statistics and Information (quick access).md",
+    "Diary/Tasks/Kanban Boards/KanbanUltimate.md",
+    "cards/banyan_config/editor_placeholder.md",
+    "Diary/Statistics/Achievements Over the Last 30 Days.canvas",
+    "Diary/Calendar and Task Panel/Calendar/view.css",
+    "Diary/Calendar and Task Panel/Calendar/view.js",
+    "Diary/Calendar and Task Panel/Task Panel/view.js",
+    "Diary/Calendar and Task Panel/Task Panel/view.css",
+    "Diary/Calendar and Task Panel/Task Panel/Task Panel.md",
+    "ObsidianCustomization/Perfect Theme.md",
+    "Diary/Tasks/Kanban Boards/Dated.md",
+    "Untitled",
+    "cards/banyan_config",
+    "cards",
+    "Diary/Statistics/Statistics and Focus for 2026.canvas",
+    "Diary/Daily Notes/16.04.2026.md",
+    "How to Use Obsidian.md",
+    "ObsidianCustomization",
+    "Diary/Tasks/Kanban Boards/Kanban Board Template.md",
+    "Welcome.md",
+    "Utilities/Templates/Daily Note (clean).md",
+    "Excalidraw/Drawing 2026-04-16 18.00.28.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 13.46.50.excalidraw.md",
+    "Diary/Calendar and Task Panel/Information About the Task Panel and Calendar.md",
+    "Diary/Daily Notes/2026-04-16.md",
+    "Obsidian Guide/Hotkeys in Obsidian.md",
+    "Obsidian Guide/Plugins in Obsidian.md",
+    "2026-04-16.md",
+    "Diary/Daily Notes/2025_Archive",
+    "Diary/Daily Notes",
+    "🔥Important ⚡Urgent.md",
+    "ife.md",
+    "Excalidraw/Drawing 2026-04-15 22.33.30.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-15 22.33.47.excalidraw.md",
+    "Excalidraw/Drawing 2026-04-16 13.45.53.excalidraw.md",
+    "Diary/Statistics/Statistics and Focus for 2026 - Copy.canvas",
+    "Diary/Statistics/Achievements Over the Last 30 Days - Copy.canvas",
+    "Diary/Statistics/Статистика и фокус за 2026.canvas",
+    "Diary/Statistics/Успехи за последние 30 дней.canvas",
+    "Untitled.canvas",
+    "This Name.canvas",
+    "Obsidian Guide by Dobrozhir/Various Design Solutions.canvas",
+    "Diary/Statistics for 2026.canvas",
+    "Utilities/Cache/image-2025.10.08 Spaced Repetition Syntax-1.png",
+    "Utilities/Cache/image-2025.10.24 Short Guide to Spaced Repetition-1.png",
+    "Utilities/Cache/image-2025.10.18 Short Guide to Spaced Repetition-1.png",
+    "Utilities/Cache/Pasted image 20251006174108.png",
+    "Utilities/Cache/image-2025.10.08 3. Interface, Navigation and Settings-1.png",
+    "Utilities/Cache/today note image.png",
+    "Utilities/Cache/1046031451379763861.jpg",
+    "Utilities/Cache/1046031451418748950.jpg",
+    "Utilities/Cache/image-2025.10.09 Daily Note (with comments)-1.png",
+    "Utilities/Cache/image-2025.10.09 2. Basic Work Elements-2.png"
+  ]
+}

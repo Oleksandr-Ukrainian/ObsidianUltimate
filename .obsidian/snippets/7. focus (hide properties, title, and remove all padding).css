@@ -1,0 +1,148 @@
+/* Hide YAML metadata in preview mode */
+.focus .metadata-container,
+.focus .metadata-yaml,
+.focus .frontmatter-property,
+.focus .inline-metadata {
+    display: none !important;
+}
+
+/* Hide metadata rows in Dataview tables */
+.focus .dataview .table-view-meta {
+    display: none !important;
+}
+
+/* Hide file title */
+.focus .view-header-title,
+.focus .inline-title {
+    display: none !important;
+}
+
+/* Remove margins from horizontal dividers */
+.focus .markdown-preview-view hr,
+.focus hr {
+    margin: 0 !important;
+    padding: 0 !important;
+    height: 1px !important;
+}
+
+/* Remove margins around dividers in the editor */
+.focus .cm-line:has(.cm-hr),
+.focus .cm-hr {
+    margin: 0 !important;
+    padding: 0 !important;
+    line-height: 0 !important;
+}
+
+/* Remove ALL possible top margins */
+.focus .markdown-reading-view .markdown-preview-view,
+.focus .markdown-source-view.mod-cm6 .cm-content,
+.focus .view-content,
+.focus .markdown-preview-view,
+.focus .workspace-leaf-content[data-type="markdown"] .view-content,
+.focus .cm-content,
+.focus .markdown-preview-sizer,
+.focus .mod-header,
+.focus .view-header {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Remove top margins from the content container */
+.focus .workspace-leaf-content[data-type="markdown"] {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Remove margins from the topmost element */
+.focus .workspace-leaf {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Hide the view header entirely */
+.focus .view-header {
+    display: none !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    max-height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+/* Remove all possible margins in the editor */
+.focus .cm-editor {
+    padding-top: 0 !important;
+}
+
+/* Remove margins in preview at document level */
+.focus .markdown-preview-sizer {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+/* Remove all possible empty spaces */
+.focus {
+    --header-height: 0px !important;
+    --view-header-height: 0px !important;
+}
+
+/* Remove borders and dividers */
+.focus .view-header::before {
+    display: none !important;
+}
+
+/* Remove possible shadows and effects */
+.focus .view-header {
+    box-shadow: none !important;
+}
+
+/* For mobile devices - also remove everything */
+.focus .workspace-mobile .view-header {
+    display: none !important;
+}
+
+/* Remove top scrollbar if present */
+.focus .cm-scroller {
+    padding-top: 0 !important;
+}
+
+/* AGGRESSIVE RULES FOR COMPLETE REMOVAL OF ALL EXCESS */
+
+/* Remove EVERYTHING that might be at the top */
+.focus .workspace-leaf-content > .view-content > :first-child,
+.focus .markdown-preview-view > :first-child,
+.focus .cm-content > :first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+/* Specific rule for the very first line of text */
+.focus .cm-line:first-child,
+.focus .markdown-preview-section > div:first-child > *:first-child {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+    line-height: 1 !important;
+}
+
+/* Make the container stick to the very top */
+.focus .workspace-leaf-content {
+    top: 0 !important;
+}
+
+/* Remove all transforms and shifts */
+.focus .workspace-leaf {
+    transform: translateY(0) !important;
+}
+
+/* NUCLEAR OPTION - if nothing else works */
+.focus body {
+    position: absolute !important;
+    top: 0 !important;
+}
+
+/* Remove all animations and transitions for the header */
+.focus .view-header {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+}

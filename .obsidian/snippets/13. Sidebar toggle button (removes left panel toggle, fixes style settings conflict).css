@@ -1,0 +1,4 @@
+/* Hide left sidebar toggle button */
+.sidebar-toggle-button.mod-left {
+  display: none !important;
+}

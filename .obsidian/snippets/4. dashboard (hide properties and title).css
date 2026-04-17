@@ -1,0 +1,18 @@
+/* Hide YAML metadata in preview mode */
+.dashboard .metadata-container,
+.dashboard .metadata-yaml,
+.dashboard .frontmatter-property,
+.dashboard .inline-metadata {
+    display: none !important;
+}
+
+/* Hide metadata rows in Dataview tables */
+.dashboard .dataview .table-view-meta {
+    display: none !important;
+}
+
+/* Hide file title */
+.dashboard .view-header-title,
+.dashboard .inline-title {
+    display: none !important;
+}

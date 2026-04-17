@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "sortType": "created",
+  "firstUseDate": "4/17/2026",
+  "randomBrowse": false,
+  "randomReviewFilters": [
+    {
+      "id": 0,
+      "name": "Random review",
+      "tagFilter": {
+        "or": [
+          []
+        ],
+        "not": [],
+        "noTag": "unlimited"
+      },
+      "showInRibbon": true
+    }
+  ],
+  "filterSchemes": [
+    {
+      "id": -1,
+      "name": "All notes",
+      "tagFilter": {
+        "or": [
+          []
+        ],
+        "not": [],
+        "noTag": "unlimited"
+      },
+      "dateRange": {
+        "from": "",
+        "to": ""
+      },
+      "keyword": "",
+      "pinned": [],
+      "parentId": null,
+      "type": "FilterScheme"
+    }
+  ],
+  "viewSchemes": [],
+  "filterSchemesExpanded": true,
+  "randomReviewExpanded": true,
+  "viewSchemesExpanded": true
+}

@@ -1,0 +1,34 @@
+.kanban-plugin__item .markdown-rendered ul {
+padding: 0 !important;
+margin: 0 !important;
+}
+.kanban-plugin__item .markdown-rendered > ul {
+margin-left: 40px !important;
+}
+.kanban-plugin__item .markdown-rendered ul ul {
+padding-left: 40px !important;
+}
+.kanban-plugin__item .markdown-rendered li.task-list-item {
+padding: 0 !important;
+margin: 0 !important;
+text-indent: 0 !important;
+}
+.kanban-plugin__item .markdown-rendered .task-list-item-checkbox {
+margin: 0 4px 0 0 !important; /* Spacing between checkbox and text */
+position: static !important; /* Standard positioning */
+}
+.kanban-plugin__item .kanban-plugin__item-prefix-button-wrapper {
+width: 0 !important; /* Shrink prefix wrapper to hide without removing checkbox */
+overflow: visible !important; /* Keep checkbox visible */
+}
+.kanban-plugin__item input[type="checkbox"] {
+position: relative !important;
+left: 0px !important; /* Shift checkbox left for alignment, adjust as needed */
+}
+.kanban-plugin__item-title p {
+text-indent: 40px !important; /* Indent for first paragraph so text wraps around */
+margin-left: 0 !important;
+}
+.kanban-plugin__item-title p ~ p {
+text-indent: 0 !important; /* No indent for subsequent paragraphs */
+}

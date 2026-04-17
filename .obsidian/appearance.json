@@ -1,0 +1,33 @@
+{
+  "baseFontSize": 30,
+  "cssTheme": "Origami",
+  "enabledCssSnippets": [
+    "Cards (cards instead of tables)",
+    "Dashboard (home page, hide properties and title)",
+    "Lines (bolder horizontal lines ---)",
+    "Stretch (force stretch in preview mode)",
+    "3.1. Hide mini panel (hide some elements for creating folders, notes, etc, supposed to work only with russian but test.)",
+    "5. focus (hide properties, title, and remove all padding)",
+    "6. stretch (force stretch in preview mode)",
+    "7. no-space (remove empty spaces around tasks)",
+    "8. no-space-kanban (remove empty spaces around tasks, for kanban)",
+    "10. no-scroll (removes excess scroll space, made for small screens for easier calendar use)",
+    "8. No-space-kanban (remove empty spaces around tasks, for kanban)",
+    "8. No space kanban (remove empty spaces around tasks, for kanban)",
+    "2. Lines (bolder horizontal lines ---)",
+    "4. dashboard (hide properties and title)",
+    "5. stretch (force stretch in preview mode)",
+    "7. focus (hide properties, title, and remove all padding)",
+    "6. no-scroll (removes excess scroll space, made for small screens for easier calendar use)",
+    "8. no-space (remove empty spaces around tasks)",
+    "9. No space kanban (remove empty spaces around tasks, for kanban)",
+    "10. Image float (text wrapping left, right, or center)",
+    "3.2. Center mini panel (center remaining elements on mini panel, like expand-all button)"
+  ],
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "theme": "obsidian",
+  "showRibbon": true,
+  "accentColor": "#febebe",
+  "nativeMenus": false
+}

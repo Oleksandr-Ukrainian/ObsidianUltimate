@@ -1,0 +1,9 @@
+{
+  "show-checkboxes": true,
+  "new-card-insertion-method": "prepend",
+  "move-tags": true,
+  "tag-action": "kanban",
+  "move-task-metadata": true,
+  "show-view-as-markdown": false,
+  "show-set-view": false
+}

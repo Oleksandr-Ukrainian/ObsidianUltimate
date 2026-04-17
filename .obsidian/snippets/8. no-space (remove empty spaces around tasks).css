@@ -1,0 +1,25 @@
+.no-space .markdown-rendered ul {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.no-space .markdown-rendered li.task-list-item {
+    padding: 0 !important;
+    margin: 0 !important;
+    text-indent: 0 !important;
+}
+
+.no-space .markdown-rendered .task-list-item-checkbox {
+    margin: 0 4px 0 0 !important; /* Adjust this value for spacing between checkbox and text */
+    position: static !important; /* Ensures standard inline positioning */
+}
+
+/* Vertical alignment of task text */
+/ .no-space .markdown-rendered li.task-list-item {
+/    line-height: 1.0 !important; /* Adjust this value for exact line height */
+/}
+
+.no-space .markdown-rendered .task-list-item-checkbox {
+    vertical-align: -4px !important; /* or baseline, top, bottom, or px value */
+    transform: translateY(0px) !important; /* Fine-tune by pixels */
+}

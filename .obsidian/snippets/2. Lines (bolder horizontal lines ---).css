@@ -1,0 +1,22 @@
+/* === Horizontal lines for preview mode === */
+.markdown-rendered hr {
+    border: none;
+    border-top: 4px solid var(--interactive-accent); /* Thicker + theme color */
+    margin: 2.5em 0; /* More spacing for readability */
+    background: transparent;
+    box-shadow: 0 0 3px rgba(255, 255, 255, 0.15); /* Subtle glow */
+    border-radius: 2px;
+}
+
+/* === Horizontal lines in edit mode (CodeMirror 6) === */
+.cm-s-obsidian hr {
+    content: "";
+    display: block;
+    height: 4px;
+    margin: 2.5em 0;
+    background: var(--interactive-accent);
+    border-radius: 2px;
+    box-shadow: 0 0 3px rgba(255, 255, 255, 0.15);
+    position: relative;
+    top: -0.3em;
+}

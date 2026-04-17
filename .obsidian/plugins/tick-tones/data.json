@@ -1,0 +1,24 @@
+{
+  "tickSoundEnabled": true,
+  "tickSound": "переворот бумаги",
+  "tickSounds": [
+    "Paper 1",
+    "Paper 13",
+    "Paper 14",
+    "Paper 2",
+    "Paper 3",
+    "Paper 4",
+    "Paper 5",
+    "Paper 7",
+    "перевёртывание бумаги (3)",
+    "перевёртывание бумаги (1)",
+    "перевёртывание бумаги (2)"
+  ],
+  "tickSoundVolume": 0.17,
+  "untickSoundEnabled": false,
+  "untickSound": "Task_Completed",
+  "untickSounds": [],
+  "untickSoundVolume": 0.6,
+  "useRandomTickSound": true,
+  "useRandomUntickSound": false
+}

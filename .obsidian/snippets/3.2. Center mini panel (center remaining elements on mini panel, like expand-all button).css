@@ -1,0 +1,18 @@
+.nav-buttons-container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  text-align: center !important;
+}
+
+/* For buttons inside the container (optional) */
+.nav-buttons-container .nav-buttons {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+/* For compatibility with other themes */
+.nav-buttons-container > * {
+  margin: auto !important;
+}

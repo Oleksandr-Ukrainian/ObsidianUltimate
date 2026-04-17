@@ -1,0 +1,9 @@
+/* Hide window control buttons */
+.window-controls {
+    display: none !important;
+}
+
+/* Hide window control buttons */
+.titlebar-button {
+    display: none !important;
+}

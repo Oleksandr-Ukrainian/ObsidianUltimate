@@ -1,0 +1,29 @@
+/* Common prefix — to target only File Explorer */
+.workspace-leaf-content[data-type="file-explorer"] .nav-header .nav-buttons-container {
+
+/* Hide "New note" button (first) */
+  .clickable-icon[aria-label="New note"] {
+    display: none !important;
+  }
+
+/* Hide "New folder" button (second) */
+  .clickable-icon[aria-label="New folder"] {
+    display: none !important;
+  }
+
+/* Hide "Sort options" button (third; assuming this is sort options — replace if label differs) */
+  .clickable-icon[aria-label="Sort order"] {
+    display: none !important;
+  }
+
+/* Hide "Auto reveal current file" button (fourth; may be plugin-specific — check in DevTools) */
+  .clickable-icon[aria-label="Auto reveal current file"] {
+    display: none !important;
+  }
+
+/* Hide "Collapse all" button (fifth; collapse all) */
+/  .clickable-icon[aria-label="Collapse all"] {
+/    display: none !important;
+/  }
+
+}

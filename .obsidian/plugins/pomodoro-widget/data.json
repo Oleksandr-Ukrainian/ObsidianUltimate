@@ -1,0 +1,12 @@
+{
+  "defaultTimerDuration": 25,
+  "tickingSpeed": 1,
+  "tickingEnabled": false,
+  "tickingVolume": 0.009,
+  "alarmVolume": 1,
+  "timerToggleLocation": "Ribbon icon",
+  "widgetVisible": false,
+  "widgetAnchor": "Bottom right",
+  "widgetXOffset": 20,
+  "widgetYOffset": 37.99998474121094
+}
